@@ -3,12 +3,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
-.body-text{
+h2{
     display: flex;
     font-family: "Montserrat", sans-serif;
-    align-items: center;
+    align-items: top;
     justify-content: center;
-    margin-top: 250px;
+    margin-top: 20px;
+    font-size: 25px;
 }
 nav{
     display: flex;
