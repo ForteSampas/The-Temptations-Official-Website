@@ -3,6 +3,10 @@
     padding: 0px;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: "MayorSmith";
+    src: url("./Temptations Fonts/MayorSmith.ttf");
+  }
 h2{
     display: flex;
     font-family: "Montserrat", sans-serif;
