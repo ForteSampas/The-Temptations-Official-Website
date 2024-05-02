@@ -3,18 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
-<<<<<<< HEAD
 h2{
     display: flex;
     font-family: "Montserrat", sans-serif;
-=======
-@font-face {
-    font-family: "MayorSmith";
-    src: url("./Temptations Fonts/MayorSmith.ttf");
-  }
-h2{
-    display: flex;
->>>>>>> 557e8e9 (Update 3)
     align-items: top;
     justify-content: center;
     margin-top: 20px;
