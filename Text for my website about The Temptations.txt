@@ -1,4 +1,4 @@
 <link rel="icon" type="image/x-icon" href="TheTemptationsGallery\TheTemptationsLogo.ico">
 <img src="TheTemptationsGallery\TheTemptationsGoldenLogo.ico" alt="TheTemptationsLogo" class="center">
 <img src="TheTemptationsGallery\Hugo Boss.jpg" alt="Hugo Boss" class="center">
-My name is Hugo Sampaio, I'm 19 years old and I'm an aspiring Web Developer.
+My name is Hugo Sampaio, I'm 20 years old and I'm an aspiring Web Developer.
