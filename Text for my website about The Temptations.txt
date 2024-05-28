@@ -2,3 +2,12 @@
 <img src="TheTemptationsGallery\TheTemptationsGoldenLogo.ico" alt="TheTemptationsLogo" class="center">
 <img src="TheTemptationsGallery\Hugo Boss.jpg" alt="Hugo Boss" class="center">
 My name is Hugo Sampaio, I'm 20 years old and I'm an aspiring Web Developer.
+<h1>-----------------------------------------------------------------------------------------</h1>
+<h1>Have you always wanted to know a little bit more about the legends themselves? Well, you're in the right place, my friend!</h1>
+    <h1>---------------------------------------------------------------------------------------------------------------------------------</h1>
+    <h1>HISTORY</h1>
+    <a href="../Pages/Dropdown/History.html">
+    <img src="../TheTemptationsGallery/The Temptations 1.jpg" alt="The Temptations 1" class="center" height="1000px" width="1400px">
+    </a>
+    <h3>Click on this image to learn about the history of the greatest singing group of all time!</h3>
+    <br>
