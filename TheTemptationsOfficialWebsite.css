@@ -192,6 +192,10 @@ body, html {
   color: goldenrod;
 }
 
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 ul {
   list-style: none;
   background: darkgoldenrod;
