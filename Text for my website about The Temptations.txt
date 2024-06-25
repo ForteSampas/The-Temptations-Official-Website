@@ -11,3 +11,6 @@ My name is Hugo Sampaio, I'm 20 years old and I'm an aspiring Web Developer.
     </a>
     <h3>Click on this image to learn about the history of the greatest singing group of all time!</h3>
     <br>
+    <a href="https://en.wikipedia.org/wiki/The_Temptations" target="_blank" rel="noopener noreferrer"><i><b>The Temptations</b></i></a>
+    <a href="https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song)" target="_blank" rel="noopener noreferrer"><i><b>"My Girl"</b></i></a>
+    <a href="file:///C:/Users/aquel/.vscode/HTML/TheTemptationsOfficialWebsite2/MeetTheTemptations/Otis%20Williams.html"><i><b>Otis Williams</b></i></a>
